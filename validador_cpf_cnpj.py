@@ -5,9 +5,9 @@ def validador():
     cpf = CPF()
     cnpj = CNPJ()
 
-    diretorio_erro = './validador_pfpj/dados_erro.txt'
-    diretorio_saida = './validador_pfpj/saida.txt'
-    diretorio_dados = './validador_pfpj/dados.txt'
+    diretorio_erro = './dados_erro.txt'
+    diretorio_saida = './saida.txt'
+    diretorio_dados = './dados.txt'
 
     #REMOVE OS REPETIDOS
     with open(f'{diretorio_dados}') as dados:
