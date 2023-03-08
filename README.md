@@ -26,3 +26,7 @@ no arquivo "saida.txt" irá aparecer "documento;tipo do documento"
 Caso tenha algum documento inválido, o documento inválido ira aparecer no print:
 
 ![image](https://user-images.githubusercontent.com/114688883/223732385-da1db2f8-f9b5-4a77-b5ba-69c4bc6b222e.png)
+
+e o mesmo será salvo no arquivo "dados_erro.txt"
+
+![image](https://user-images.githubusercontent.com/114688883/223732835-3c1af254-3c55-4b40-bded-cb9b374b5664.png)
