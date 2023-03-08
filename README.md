@@ -1,11 +1,13 @@
-# validador_pfpj
 Script para validação de CPF e CNPJ. Construído em Python 3.10
 
-## Imports necessários
-- from validate_docbr import CPF, CNPJ
-- from colorama import Fore
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Felipedjn/validador_pfpj/blob/main/LICENSE)
 
-# Uso
+## Instalação
+Instalar usando pip
+- pip install validate-docbr
+- pip install colorama
+
+## Uso
 No arquivo "dados.txt" ficará os documentos a ser validados
 
 ![image](https://user-images.githubusercontent.com/114688883/223730263-690e9d7c-7630-4bc5-89ed-b63756560b2e.png)
